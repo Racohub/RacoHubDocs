@@ -14,3 +14,8 @@ Portions of this software or repository are licensed as follows:
 * All content that resides under the "GenSource/" directory (and subdirectories) of this repository or software, if that directory exists, is licensed under the license defined in "GenSource/LICENSE.md".
 * All client-side JavaScript (when served directly or after being compiled, arranged, augmented, or combined), is licensed under the "MIT Expat" license.
 * All third party components incorporated into this software or repository are licensed under the original license provided by the owner of the applicable component.
+
+## Additional license information
+
+* Contact: racohub@gmail.com
+* License text: [https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub%20DMLv1.md](https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub%20DMLv1.md)
