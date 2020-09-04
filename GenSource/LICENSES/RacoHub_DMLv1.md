@@ -1,11 +1,10 @@
 Copyright (c) 2020-present Racohub
-
-This text (this license) is protected by international Copyright laws.
-In the event of any invalidation of this license, it will be assumed that everything mentioned and not mentioned is protected under international Copyright laws.
-
-The text of this license cannot be modified, except by its original author.
+This text (this license) is under RacoHub LFLv1
+* RacoHub LFLv1 text: [https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_LFLv1.md](https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_LFLv1.md)
 
 # RacoHub Directory Multiple License v1
+
+> Version 1, 4 November 2020 
 
 Portions of this software or repository are licensed as follows:
 
@@ -18,4 +17,4 @@ Portions of this software or repository are licensed as follows:
 ## Additional license information
 
 * Contact: racohub@gmail.com
-* License text: [https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_DMLv1.md](https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_DMLv1.md)
+* This license text: [https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_DMLv1.md](https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_DMLv1.md)
