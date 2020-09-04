@@ -18,4 +18,4 @@ Portions of this software or repository are licensed as follows:
 ## Additional license information
 
 * Contact: racohub@gmail.com
-* License text: [https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub%20DMLv1.md](https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub%20DMLv1.md)
+* License text: [https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_DMLv1.md](https://github.com/Racohub/RacoHubDocs/blob/master/GenSource/LICENSES/RacoHub_DMLv1.md)
